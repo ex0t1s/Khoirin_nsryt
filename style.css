@@ -11,6 +11,10 @@ body {
   line-height: 1.6;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* Header/Navbar */
 .header {
   display: flex;
